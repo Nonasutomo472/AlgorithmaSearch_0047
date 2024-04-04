@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tugasSearch", "tugasSearch\tugasSearch.vcxproj", "{A48C545E-CFE0-4475-829D-4B74738494E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Debug|x64.ActiveCfg = Debug|x64
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Debug|x64.Build.0 = Debug|x64
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Debug|x86.Build.0 = Debug|Win32
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Release|x64.ActiveCfg = Release|x64
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Release|x64.Build.0 = Release|x64
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Release|x86.ActiveCfg = Release|Win32
+		{A48C545E-CFE0-4475-829D-4B74738494E7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E4CE36-D427-4A06-8EC5-8DE46A93A54E}
+	EndGlobalSection
+EndGlobal
